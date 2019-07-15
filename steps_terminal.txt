@@ -1,0 +1,4 @@
+cd ..insert your directory path to the human_ai_game folder...
+set FLASK_APP=main.py
+set FLASK_ENV=development
+flask run
